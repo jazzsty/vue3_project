@@ -3,6 +3,7 @@
 //   transpileDependencies: true
 // })
 module.exports = {
-  publicPath: '/vue3_project',
-  outputDir: 'docs'
+  publicPath: './',
+  // publicPath: '/vue3_project',
+  // outputDir: 'docs'
 }
