@@ -4,5 +4,5 @@
 // })
 module.exports = {
   publicPath: '/vue3_project',
-  // outputDir: 'docs'
+  outputDir: 'docs'
 }
